@@ -2,4 +2,3 @@ Selle praktikumi lahendamiseks kasutan järgnevat juhendit: https://www.metshein
 Eesnimi: Henri
 Perenimi: Rüütli
 Kursus: VS21
-hei
